@@ -1,0 +1,14 @@
+{
+  "name": "xmasApp",
+ 
+  "scripts": {
+   	"start": "node app.js"
+  },
+
+  
+  "dependencies": {
+    "express": "",
+    "pug": ""
+  },
+  "devDependencies": {}
+}

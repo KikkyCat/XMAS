@@ -1,0 +1,59 @@
+{
+    "availableAsSecretFriend":[
+        {"name": "Lety"},
+        {"name": "Victor"},
+        {"name": "Sergio"},
+        {"name": "Lore"},
+        {"name": "Yorsh"},
+        {"name": "Pao"},
+        {"name": "Katia"},
+        {"name": "Esther"},
+        {"name": "Stenner"},
+        {"name": "Shata"},
+        {"name": "Osvaldo"},
+        {"name": "Oscar"},
+        {"name": "Gaby"},
+        {"name": "Lizandro"},
+        {"name": "Lesle"},
+        {"name": "Vaky"}
+    ],
+    "availableToAssignSecretFriend":[
+        {"name": "Lety"},
+        {"name": "Victor"},
+        {"name": "Lore"},
+        {"name": "Yorsh"},
+        {"name": "Pao"},
+        {"name": "Vaky"},
+        {"name": "Katia"},
+        {"name": "Esther"},
+        {"name": "Stenner"},
+        {"name": "Shata"},
+        {"name": "Osvaldo"},
+        {"name": "Oscar"},
+        {"name": "Gaby"},
+        {"name": "Lesle"},
+        {"name": "Lizandro"},
+        {"name": "Sergio"}
+    ],
+    "assigned":[
+        
+    ],
+    "all":[
+        {"name": "Lety", "photo": ""},
+        {"name": "Victor", "photo": ""},
+        {"name": "Sergio", "photo": ""},
+        {"name": "Lore", "photo": ""},
+        {"name": "Yorsh", "photo": ""},
+        {"name": "Pao", "photo": ""},
+        {"name": "Vaky", "photo": ""},
+        {"name": "Katia", "photo": ""},
+        {"name": "Esther", "photo": ""},
+        {"name": "Stenner", "photo": ""},
+        {"name": "Shata", "photo": ""},
+        {"name": "Osvaldo", "photo": ""},
+        {"name": "Oscar", "photo": ""},
+        {"name": "Gaby", "photo": ""},
+        {"name": "Lesle", "photo": ""},
+        {"name": "Lizandro", "photo": ""}      
+    ]
+}

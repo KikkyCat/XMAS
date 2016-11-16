@@ -1,0 +1,35 @@
+doctype html
+html(lang='en')
+	head
+		meta(charset='utf-8')
+		meta(http-equiv='X-UA-Compatible', content='IE=edge')
+		meta(name='viewport', content='width=device-width, initial-scale=1')
+		meta(name='description', content='')
+		meta(name='author', content='')
+		link(rel='icon', href='xmas_sticker-06.ico')
+		title Intercambiador
+		link(href='resources/CSS/bootstrap.min.css', rel='stylesheet')
+		link(href='resources/CSS/ie10-viewport-bug-workaround.css', rel='stylesheet')
+		link(href='resources/CSS/cover.css', rel='stylesheet')
+		
+		script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js')
+		script(src='views/secretFriend.js')
+	body
+		.site-wrapper
+			.site-wrapper-inner
+				.cover-container
+					.masthead.clearfix
+						.inner
+					.inner.cover
+						h1.cover-heading
+							img(src='resources/imgs/header.png')
+						.form#formSecretFriend(name="secretFriend",method="rest")
+							label Yo soy: 
+							select#mySelect(name='mySelect')
+								each person in persons
+									option(value=person.name) #{person.name}
+						button.btn.btn-lg.btn-primary#btnSubmit Y le regalaré a... 
+						h2
+							#secret.cover-heading
+						h3
+							#error.cover-heading
