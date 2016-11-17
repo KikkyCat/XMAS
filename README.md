@@ -12,4 +12,4 @@ The important part here is the JSON file, https://github.com/sosahvictor/XMAS/bl
 
 # Copyright
 This application is licensed under Apache License V2. See the full license here
-https://raw.githubusercontent.com/sosahvictor/XMAS/master/License.txt
+https://github.com/KikkyCat/XMAS/blob/master/License.txt
